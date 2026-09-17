@@ -231,6 +231,7 @@
 * [WTR-LAB](https://wtr-lab.com/) - Online Reading / Requires Sign-Up for AI Translations
 * [Translated Light Novels](https://rentry.co/FMHYB64#translated-light-novels) - Downloads
 * [⁠jnovels](https://jnovels.com/) - Downloads
+* [server.elscione](https://server.elscione.com/),[2](https://server.elsci.one/) - Downloads
 * [MP4DIRECTS](https://mp4directs.com/) - Downloads
 * [⁠Light Novel World](https://lightnovelworld.org/) - Online Reading
 * [Wuxia World](https://wuxiaworld.site/) - Online Reading
